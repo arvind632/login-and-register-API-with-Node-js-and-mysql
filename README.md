@@ -1,5 +1,5 @@
-# login-and-register-api
-Clone the repo and npm install
+# login-and-register-api in Node Js
+Clone the repo and npm install <br/>
 connect db and create a table
 CREATE TABLE `users` (
  `id` int(11) NOT NULL AUTO_INCREMENT,
