@@ -16,7 +16,7 @@ cd login-and-register-API-with-Node-js-and-mysql
 npm install
 
 🗄️ Database Setup
-```bash
+```js
 CREATE TABLE `users` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
   `first_name` varchar(100) COLLATE utf8_unicode_ci NOT NULL,
@@ -29,3 +29,5 @@ CREATE TABLE `users` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 
 ```
+
+
